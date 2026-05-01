@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BomDiaPessoas.aternos.me",
-    "port": 31690,
+    "ip": "",
+    "port": ,
     "version": "",
     "try-creative": false
   },
